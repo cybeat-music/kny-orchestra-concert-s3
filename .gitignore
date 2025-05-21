@@ -20,3 +20,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+music/2/ignore/06.flac
+music/2/ignore/14.flac
